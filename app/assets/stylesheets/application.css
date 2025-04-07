@@ -1,0 +1,32 @@
+/* app/assets/stylesheets/application.css */
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #4175aa;
+    color: #333;
+  }
+  
+  header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  

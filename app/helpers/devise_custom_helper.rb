@@ -1,0 +1,2 @@
+module DeviseCustomHelper
+end
