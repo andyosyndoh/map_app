@@ -65,6 +65,12 @@ Devise is used for authentication.
 
 Admin users can access the dashboard via `/admin/dashboard`.
 
+Admin logins are: 
+```
+  email: 'admin@example.com'
+  password: 'password123'
+```
+
 ---
 
 ## 🧪 Run the app
