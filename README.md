@@ -75,6 +75,13 @@ Admin users can access the dashboard via `/admin/dashboard`.
 # Start Rails server
 rails s
 ```
+or
+
+```bash
+
+./bin/dev
+
+```
 
 ```bash
 # In a separate terminal, run Vite for React components
